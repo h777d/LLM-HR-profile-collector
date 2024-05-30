@@ -1,0 +1,8 @@
+IPython
+matplotlib
+numpy
+langchain
+dotenv
+tweepy
+pandas
+scipy
